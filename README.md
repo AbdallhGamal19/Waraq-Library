@@ -8,32 +8,53 @@ User Management
 
 • Sign Up: Users can create an account by providing necessary details and registering with the application.
 
-Login: Registered users can log in to access their account and library functionalities.
-Email Verification: A verification process is implemented to ensure the validity of user email addresses.
-Update User: Users have the ability to update their profile information, such as name, contact details, and password.
-Delete User: Users can choose to delete their account and associated data from the application.
-Get User: Users can view their profile information and library records.
+• Login: Registered users can log in to access their account and library functionalities.
+
+• Email Verification: A verification process is implemented to ensure the validity of user email addresses.
+
+• Update User: Users have the ability to update their profile information, such as name, contact details, and password.
+
+• Delete User: Users can choose to delete their account and associated data from the application.
+
+• Get User: Users can view their profile information and library records.
 
 Book Management
-Add Book: Admin users can add new books to the library by providing details such as title, author, and genre.
-Search Book: Users can search for books based on various criteria, such as title, author, or genre.
-Issue Book: Users can issue books for a specified duration, marking them as borrowed from the library.
-Return Book: Users can mark a borrowed book as returned once they have returned it to the library.
-Get All Books: Users can view a list of all available books in the library.
-Get Non-Returned Books: Users can see a list of books that are currently borrowed and not yet returned.
-Get Book By ID: Users can retrieve detailed information about a specific book using its unique identifier.
+
+• Add Book: Admin users can add new books to the library by providing details such as title, author, and genre.
+
+• Search Book: Users can search for books based on various criteria, such as title, author, or genre.
+
+• Issue Book: Users can issue books for a specified duration, marking them as borrowed from the library.
+
+• Return Book: Users can mark a borrowed book as returned once they have returned it to the library.
+
+• Get All Books: Users can view a list of all available books in the library.
+
+• Get Non-Returned Books: Users can see a list of books that are currently borrowed and not yet returned.
+
+• Get Book By ID: Users can retrieve detailed information about a specific book using its unique identifier.
 
 Frontend Pages
-Sign Up: A page where users can create a new account by providing their details.
-Login: The login page where users can enter their credentials to access their account.
-Home: The main page where users can view featured books and access various functionalities.
-Add Book: A page accessible to admin users for adding new books to the library.
-Book Details: A page to display book details.
-Profile: The user profile page displays personal information and library records.
-Non-Returned Books: A page that lists books currently borrowed by the user and not yet returned.
-Issued Books: A page displaying a user's history of issued books and their respective return status.
+• Sign Up: A page where users can create a new account by providing their details.
+
+• Login: The login page where users can enter their credentials to access their account.
+
+• Home: The main page where users can view featured books and access various functionalities.
+
+• Add Book: A page accessible to admin users for adding new books to the library.
+
+• Book Details: A page to display book details.
+
+• Profile: The user profile page displays personal information and library records.
+
+• Non-Returned Books: A page that lists books currently borrowed by the user and not yet returned.
+
+• Issued Books: A page displaying a user's history of issued books and their respective return status.
 
 Technologies Used
-Frontend: React.js, Bootstrap
-Backend: Node.js, Express
-Database: MongoDB
+
+• Frontend: React.js, Bootstrap 
+
+• Backend: Node.js, Express
+
+• Database: MongoDB
