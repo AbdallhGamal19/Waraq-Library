@@ -1,5 +1,5 @@
 <h1>Overview</h1>
-This project is a full-stack library application developed using React.js for the frontend, Node.js with Express for the backend, and MongoDB as the database. The application allows users to sign up, log in, and manage their library activities such as issuing (borrowing) books for a specified duration. If a user fails to return a book within the designated time, a fee will be applied.
+This project is a full-stack library application developed using React.js for the front end, Node.js with Express for the backend, and MongoDB as the database. The application allows users to sign up, log in, and manage their library activities such as issuing (borrowing) books for a specified duration. If a user fails to return a book within the designated time, a fee will be applied.
 
 This project utilizes the Framer Motion library to enhance the user experience with captivating animations and transitions. Framer Motion is a popular animation library for React applications that provides a simple and powerful way to create fluid and engaging user interfaces.
 
@@ -27,7 +27,7 @@ Login: The login page where users can enter their credentials to access their ac
 Home: The main page where users can view featured books and access various functionalities.
 Add Book: A page accessible to admin users for adding new books to the library.
 Book Details: A page to display book details.
-Profile: The user profile page displaying personal information and library records.
+Profile: The user profile page displays personal information and library records.
 Non-Returned Books: A page that lists books currently borrowed by the user and not yet returned.
 Issued Books: A page displaying a user's history of issued books and their respective return status.
 
