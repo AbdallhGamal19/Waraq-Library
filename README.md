@@ -58,3 +58,29 @@ Technologies Used
 • Backend: Node.js, Express
 
 • Database: MongoDB
+
+![Screenshot 2024-05-15 121240](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/85393f45-2649-4e72-9b5b-9bf9b3722115)
+![Screenshot 2024-05-15 121031](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/d756340d-dc4f-4c7b-9d83-ae31bf38da24)
+![Screenshot 2024-03-16 043505](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/ead070a1-deb5-42b5-a571-6f4a106cda31)
+![Screenshot 2024-05-15 121518](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/b65be99f-80d3-4012-8db6-2c950d9a8172)
+![Screenshot 2024-05-15 114709](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/e7e5cb2d-73f5-46fe-99b5-546f6c728eaf)
+![Screenshot 2024-05-15 114924](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/f0f087c4-4038-4389-a746-40f0a12cefc4)
+![Screenshot 2024-05-15 114815](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/c899cf49-1656-4188-85a1-d5fd95a0f971)
+![Screenshot 2024-05-15 114857](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/b4a64777-59aa-4310-8508-a1e180340e9d)
+![Screenshot 2024-05-15 121630](https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/24caf833-1042-4c68-a41d-3afdb6eaa422)
+https://github.com/AbdallhGamal19/Waraq-Library/assets/114368431/9ee6b1db-085b-457b-a790-4df92419bb35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
