@@ -5,7 +5,9 @@ This project utilizes the Framer Motion library to enhance the user experience w
 
 Features
 User Management
+
 • Sign Up: Users can create an account by providing necessary details and registering with the application.
+
 Login: Registered users can log in to access their account and library functionalities.
 Email Verification: A verification process is implemented to ensure the validity of user email addresses.
 Update User: Users have the ability to update their profile information, such as name, contact details, and password.
